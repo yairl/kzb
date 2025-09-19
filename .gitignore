@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.log
+.cache/
+data/processed_pages.jsonl
